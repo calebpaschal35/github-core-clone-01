@@ -1,5 +1,9 @@
 # github-core-clone — a GitHub-compatible git forge in one Node process
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/calebpaschal35/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/calebpaschal35/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A standalone forge with no dependencies and no outside service: git smart HTTP
 (upload-pack v2/v0, receive-pack v0), REST v3, GraphQL v4 and an MCP endpoint, all
 backed by one in-memory store so every surface agrees about every repository.
@@ -35,3 +39,7 @@ backed by one in-memory store so every surface agrees about every repository.
   base's current tip.
 - Timestamps come from a fixed base plus a monotonic counter, so ordering is stable
   and deterministic across runs.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=hrrz9v0m&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
